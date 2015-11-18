@@ -1,0 +1,2 @@
+# DirectionalViewPager
+之前那个Jake Wharton写了个垂直滑动的viewPager，也就是做那个pullToRefresh的作者，但是不支持现在的v4包，所以我就改了一下
