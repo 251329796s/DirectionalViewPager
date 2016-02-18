@@ -13,6 +13,7 @@ public class SampleActivity extends FragmentActivity {
         setContentView(R.layout.main);
 
         // 我就试一下
+        // 我再试一下
         //Set up the pager
         final DirectionalViewPager pager = (DirectionalViewPager)findViewById(R.id.pager);
         pager.setAdapter(new TestFragmentAdapter(getSupportFragmentManager()));
